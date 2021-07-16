@@ -11,12 +11,6 @@
 
 Desenvolvido durante o evento "Semana Multi Stack", promovido pela [Treina Web](https://www.treinaweb.com.br/), o projeto conta com uma plataforma chamada E-diaristas que te ajuda a encontrar o melhor profissional de limpeza domiciliar com total segurança e praticidade. Através do Painel Administrativo, ainda é possível cadastrar novos profissionais e alterar e deletar seus dados.
 
-## <a id="demonstracao"> ⚙️ Demonstração </a>
-
-Abaixo é possível vizualizar um gif que apresenta todas as telas desenvolvidas, tanto do Painel de Administração quanto da plataforma E-diaristas, bem como uma pesquisa sendo realizada.
-
-![demonstracao](https://user-images.githubusercontent.com/67839316/125877685-acbf5a76-a940-43fa-bb29-bb54b99b8a48.gif)
-
 ## <a id="tecnologias"> 🧪 Tecnologias </a>
 
 As seguintes tecnologias foram utilizadas neste projeto para o desenvolvimento da plataforma E-diaristas:
@@ -35,3 +29,10 @@ Já para desenvolver o Painel Administrativo, foram utilizadas as seguintes tecn
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+## <a id="demonstracao"> ⚙️ Demonstração </a>
+
+Abaixo é possível vizualizar um gif que apresenta todas as telas desenvolvidas, tanto do Painel de Administração quanto da plataforma E-diaristas, bem como uma pesquisa sendo realizada.
+
+![demonstracao](https://user-images.githubusercontent.com/67839316/125877685-acbf5a76-a940-43fa-bb29-bb54b99b8a48.gif)
+
